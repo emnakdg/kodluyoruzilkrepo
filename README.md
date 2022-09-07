@@ -28,4 +28,4 @@ Pull requestler kabul edilir. Buyuk degisiklikler icin lutfen once neyi degistir
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Kodluyoruz!!](https://tr.linkedin.com/company/kodluyoruz)
+![Kodluyoruz!!](https://media-exp2.licdn.com/dms/image/C4D1BAQEGoWyZ5wun2g/company-background_10000/0/1652169602399?e=2147483647&v=beta&t=foLeOg69AsbyQX4G6IpDA4OEsFMOzz6u6UqySng44Kk)
